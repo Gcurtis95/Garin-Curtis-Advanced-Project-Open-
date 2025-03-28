@@ -1,0 +1,9 @@
+opencv-python
+ndi-python
+python-osc
+scipy
+kornia
+python-osc
+matplotlib
+peft
+pandas
