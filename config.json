@@ -1,0 +1,15 @@
+{
+	"sd_model": "runwayml/stable-diffusion-v1-5",
+	"t_index_list": [25,45],
+	"engine": "none",
+	"min_batch_size": 1,
+	"max_batch_size": 2,
+	"ndi_name": "GARIN-LAPTOP (TouchDesigner)",
+	"osc_out_adress": "127.0.0.1",
+	"osc_out_port": 12345,
+	"osc_in_adress": "127.0.0.1",
+	"osc_in_port": 12346
+}
+
+
+
